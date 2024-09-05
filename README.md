@@ -1,2 +1,4 @@
-# AppJokenpo
-Aula de Mobile II
+# AppJokenpo para Android
+
+- Aula de Mobile II
+- Iniciando interface
